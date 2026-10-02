@@ -76,12 +76,11 @@ const Home = () => {
                 </div>
             </div>
             <footer>
-                <h4>
-                    Built by &nbsp;
-                    <a href="https://github.com/hritik0447">Hritik Vishnoi</a>
-                    
-                </h4>
-            </footer>
+    <h4>
+        Built by &nbsp;
+        <a href="https://github.com/hritik0447">Hritik Vishnoi</a>
+    </h4>
+</footer>
         </div>
     );
 };
