@@ -79,7 +79,7 @@ const Home = () => {
                 <h4>
                     Built by &nbsp;
                     <a href="https://github.com/hritik0447">Hritik Vishnoi</a>
-                    git commit -m "Update footer"
+                    
                 </h4>
             </footer>
         </div>
